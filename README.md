@@ -2,7 +2,7 @@
 
 This repo will be a walkthrough of the book "Understanding Deep Learning" by Simon J.D. Prince
 
-<img src=”images/Understanding-Deep-Learning.jpg” alt="Understanding Deep Learning" width=”300”>
+<img src=”images/Understanding-Deep-Learning.jpg” alt="Understanding Deep Learning">
 
 ## Sunday, September 1, 2024
 
