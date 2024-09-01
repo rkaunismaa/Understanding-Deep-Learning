@@ -4,6 +4,7 @@ This repo will be a walkthrough of the book "Understanding Deep Learning" by Sim
 
  <img src="images/UDLCover.jpg" alt="Understanding Deep Learning" width="300">
 
+mamba activate udl
 
 ## Sunday, September 1, 2024
 
