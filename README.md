@@ -4,6 +4,8 @@ This repo will be a walkthrough of the book "Understanding Deep Learning" by Sim
 
 <img src=”images/Understanding-Deep-Learning.jpg” alt="Understanding Deep Learning">
 
+
+
 ## Sunday, September 1, 2024
 
  1) mamba create -n udl
