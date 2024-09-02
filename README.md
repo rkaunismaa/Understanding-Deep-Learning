@@ -14,4 +14,4 @@ mamba activate udl
  4) mamba install conda-forge::jupyterlab
  5) mamba install conda-forge::matplotlib
 
-
+It looks like the notebooks all have TODO items for the reader to complete. This is good!
