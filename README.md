@@ -19,3 +19,9 @@ It looks like the notebooks all have TODO items for the reader to complete. This
 ## Saturday, September 7, 2024
 
 Resuming this walkthrough from the newly built kitchen computer ...
+
+## Monday, September 9, 2024
+
+Really seeing the value of doing the exercises at the end of every chapter!
+
+Re-running existing notebooks just to validate they all still run.
