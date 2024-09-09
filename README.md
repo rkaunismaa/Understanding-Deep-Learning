@@ -15,3 +15,7 @@ mamba activate udl
  5) mamba install conda-forge::matplotlib
 
 It looks like the notebooks all have TODO items for the reader to complete. This is good!
+
+## Saturday, September 7, 2024
+
+Resuming this walkthrough from the newly built kitchen computer ...
