@@ -25,3 +25,7 @@ Resuming this walkthrough from the newly built kitchen computer ...
 Really seeing the value of doing the exercises at the end of every chapter!
 
 Re-running existing notebooks just to validate they all still run.
+
+## Tuesday, November 26, 2024
+
+Getting back to this excellent book ... 
